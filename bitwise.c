@@ -1,4 +1,4 @@
-/* Exercising bitwisew operators*/
+/* Exercising bitwise operators*/
 
 #include <stdio.h>
 
